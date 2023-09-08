@@ -1,0 +1,27 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\users\\korisnik\\documents\\unreal projects\\cryptraider\\cryptraider\\cryptraider\\source\\cryptraider\\cryptraidergamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\users\\korisnik\\documents\\unreal projects\\cryptraider\\cryptraider\\cryptraider\\intermediate\\build\\win64\\cryptraidereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\users\\korisnik\\documents\\unreal projects\\cryptraider\\cryptraider\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\development\\cryptraider\\definitions.cryptraider.h",
+            "d:\\users\\korisnik\\documents\\unreal projects\\cryptraider\\cryptraider\\cryptraider\\source\\cryptraider\\cryptraidergamemode.h",
+            "d:\\programs\\steam\\steamapps\\common\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\programs\\steam\\steamapps\\common\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\programs\\steam\\steamapps\\common\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "d:\\programs\\steam\\steamapps\\common\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "d:\\users\\korisnik\\documents\\unreal projects\\cryptraider\\cryptraider\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptraider\\cryptraidergamemode.generated.h",
+            "d:\\users\\korisnik\\documents\\unreal projects\\cryptraider\\cryptraider\\cryptraider\\source\\cryptraider\\cryptraidercharacter.h",
+            "d:\\programs\\steam\\steamapps\\common\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\programs\\steam\\steamapps\\common\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\programs\\steam\\steamapps\\common\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "d:\\programs\\steam\\steamapps\\common\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\programs\\steam\\steamapps\\common\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "d:\\programs\\steam\\steamapps\\common\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "d:\\users\\korisnik\\documents\\unreal projects\\cryptraider\\cryptraider\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptraider\\cryptraidercharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
