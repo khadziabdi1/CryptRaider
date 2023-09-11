@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "CryptRaider",
-			"Path": "D:\\Users\\Korisnik\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider\\CryptRaider\\Source\\CryptRaider.Target.cs",
+			"Path": "..\\Source\\CryptRaider.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "CryptRaiderEditor",
-			"Path": "D:\\Users\\Korisnik\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider\\CryptRaider\\Source\\CryptRaiderEditor.Target.cs",
+			"Path": "..\\Source\\CryptRaiderEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
