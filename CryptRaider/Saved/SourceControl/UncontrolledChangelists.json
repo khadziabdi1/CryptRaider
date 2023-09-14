@@ -7,7 +7,10 @@
 			"files": [
 				"D:/Users/Korisnik/Documents/Unreal Projects/CryptRaider/CryptRaider/CryptRaider/Content/Dungeon.umap",
 				"D:/Users/Korisnik/Documents/Unreal Projects/CryptRaider/CryptRaider/CryptRaider/Content/BP_Torch_Dungeon.uasset",
-				"D:/Users/Korisnik/Documents/Unreal Projects/CryptRaider/CryptRaider/CryptRaider/Content/MedievalDungeon/Materials/M_Tiling_Master.uasset"
+				"D:/Users/Korisnik/Documents/Unreal Projects/CryptRaider/CryptRaider/CryptRaider/Content/MedievalDungeon/Materials/M_Tiling_Master.uasset",
+				"D:/Users/Korisnik/Documents/Unreal Projects/CryptRaider/CryptRaider/CryptRaider/Content/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Floor.uasset",
+				"D:/Users/Korisnik/Documents/Unreal Projects/CryptRaider/CryptRaider/CryptRaider/Content/BP_Player.uasset",
+				"D:/Users/Korisnik/Documents/Unreal Projects/CryptRaider/CryptRaider/CryptRaider/Content/BP_CryptRaider_GameMode.uasset"
 			]
 		}
 	]

@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\users\\korisnik\\documents\\unreal projects\\cryptraider\\cryptraider\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptraider\\uht\\cryptraidergamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\users\\korisnik\\documents\\unreal projects\\cryptraider\\cryptraider\\cryptraider\\intermediate\\build\\win64\\x64\\cryptraidereditor\\development\\engine\\sharedpch.engine.cpp17.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\users\\korisnik\\documents\\unreal projects\\cryptraider\\cryptraider\\cryptraider\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cryptraider\\definitions.cryptraider.h",
+            "d:\\users\\korisnik\\documents\\unreal projects\\cryptraider\\cryptraider\\cryptraider\\source\\cryptraider\\cryptraidergamemode.h",
+            "d:\\programs\\steam\\steamapps\\common\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\programs\\steam\\steamapps\\common\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\programs\\steam\\steamapps\\common\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\programs\\steam\\steamapps\\common\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\users\\korisnik\\documents\\unreal projects\\cryptraider\\cryptraider\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptraider\\uht\\cryptraidergamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
